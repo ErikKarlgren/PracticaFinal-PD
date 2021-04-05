@@ -14,7 +14,7 @@ Consiste en crear un tipo para representar relaciones en Haskell y definir las s
 
 Solo se usan funciones del módulo Prelude y se intenta evitar la recursión en favor de funciones de orden superior y listas intensionales.
 
-**Importante:** la práctica está sin corregir, pero todo funciona correctamente. Podrían haber pequeños cambios en un futuro cercano (no prometo nada). 
+**Importante:** Saqué un 10 en esta práctica
 
 Universidad Complutense de Madrid
 Facultad de Informática
